@@ -21,7 +21,7 @@ void swops_ints(int *a, int *b)
 
 /**
  * lomutoscheme_partition - sorts an array of integers in
- * ascending order using the Quick sort algorithm implementing 
+ * ascending order using the Quick sort algorithm implementing
  * the Lomuto partition scheme.
  *
  * @array: array of ints.
