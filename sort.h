@@ -68,7 +68,7 @@ void counting_sort(int *array, size_t size);
 /*prototypes for 103-mere_sort.c*/
 void merge_sort(int *array, size_t size);
 
-/*104-eap_sort.c prototype*/
+/*104-heap_sort.c prototype*/
 void heap_sort(int *array, size_t size);
 
 /*105-radix_sort.c prototype */
